@@ -68,6 +68,14 @@ const Experience = () => {
               TypeScript
             </h4>
             </article>
+
+            
+            <article className='experience__details'>
+            <BsFillPatchCheckFill className='experience__details-icon' />
+            <h4>
+            WebSockets 
+            </h4>
+            </article>
             
           </div>
         </div>
@@ -120,6 +128,14 @@ const Experience = () => {
               TypeScript
             </h4>
             </article>
+            
+            <article className='experience__details'>
+            <BsFillPatchCheckFill className='experience__details-icon' />
+            <h4>
+            WebSockets 
+            </h4>
+            </article>
+            
             
           </div>
           </div>
