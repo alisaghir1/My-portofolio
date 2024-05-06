@@ -1,6 +1,8 @@
 import React from 'react'
 import './portfolio.css'
 import codeTalk from '../../assets/codeTalk.jpeg'
+import Rayn_look from '../../assets/Rayn-look.jpeg'
+
 
 
 
@@ -11,6 +13,13 @@ const data=[
     title: 'CodeTalk',
     github:'https://github.com/alisaghir1/Code-Talk-Frontend',
     demo:'https://code-talk-eta.vercel.app/sign-in'
+  },
+  {
+    id: 2,
+    image: Rayn_look,
+    title: 'Rayn-Look',
+    github:'https://github.com/alisaghir1/rayn-look-frontend',
+    demo:'https://rayn-look.vercel.app/'
   }
 ]
 
