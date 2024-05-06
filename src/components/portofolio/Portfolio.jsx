@@ -1,7 +1,7 @@
 import React from 'react'
 import './portfolio.css'
 import codeTalk from '../../assets/codeTalk.jpeg'
-import Rayn_look from '../../assets/Rayn-look.jpeg'
+import raynLook from '../../assets/raynLook.jpeg'
 
 
 
@@ -16,8 +16,8 @@ const data=[
   },
   {
     id: 2,
-    image: Rayn_look,
-    title: 'Rayn-Look',
+    image: raynLook,
+    title: 'Rayn_Look',
     github:'https://github.com/alisaghir1/rayn-look-frontend',
     demo:'https://rayn-look.vercel.app/'
   }
