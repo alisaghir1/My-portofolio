@@ -2,6 +2,8 @@ import React from 'react'
 import './portfolio.css'
 import codeTalk from '../../assets/codeTalk.jpeg'
 import raynLook from '../../assets/raynLook.jpeg'
+import hi5 from '../../assets/hi5.jpeg'
+import meatmoot from '../../assets/meatmoot.jpeg'
 
 
 
@@ -20,6 +22,20 @@ const data=[
     title: 'Rayn_Look',
     github:'https://github.com/alisaghir1/rayn-look-frontend',
     demo:'https://rayn-look.vercel.app/'
+  },
+  {
+    id: 3,
+    image: hi5,
+    title: 'hi5 Properties',
+    github:'https://github.com/alisaghir1/Reef_Landing_page',
+    demo:'https://properties.hi5properties.com/'
+  },
+  {
+    id: 4,
+    image: meatmoot,
+    title: 'Meat moot',
+    github:'https://github.com/alisaghir1/meat-moot',
+    demo:'https://meat-moot-oo41.vercel.app/'
   }
 ]
 

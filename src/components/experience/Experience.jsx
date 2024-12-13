@@ -69,6 +69,13 @@ const Experience = () => {
             </h4>
             </article>
 
+            <article className='experience__details'>
+            <BsFillPatchCheckFill className='experience__details-icon' />
+            <h4>
+              Next.Js
+            </h4>
+            </article>
+
             
             <article className='experience__details'>
             <BsFillPatchCheckFill className='experience__details-icon' />

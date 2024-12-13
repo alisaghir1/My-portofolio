@@ -40,7 +40,7 @@ const About = () => {
                 Projects
               </h5>
               <small>
-                5+ Projects
+                10+ Projects
               </small>
             </article>
 
