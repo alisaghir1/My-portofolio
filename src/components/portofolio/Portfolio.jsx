@@ -4,11 +4,26 @@ import codeTalk from '../../assets/codeTalk.jpeg'
 import raynLook from '../../assets/raynLook.jpeg'
 import hi5 from '../../assets/hi5.jpeg'
 import meatmoot from '../../assets/meatmoot.jpeg'
+import hi5Events from '../../assets/Events.jpeg'
 
 
 
 
 const data=[
+  {
+    id: 4,
+    image: meatmoot,
+    title: 'Meat moot',
+    github:'https://github.com/alisaghir1/meat-moot',
+    demo:'https://meatmoot.ae'
+  },
+  {
+    id: 5,
+    image: hi5Events,
+    title: 'high Five Events',
+    github:'https://github.com/alisaghir1/meat-moot',
+    demo:'https://events.hi5properties.com'
+  },
   {
     id: 1,
     image: codeTalk,
@@ -30,13 +45,6 @@ const data=[
     github:'https://github.com/alisaghir1/Reef_Landing_page',
     demo:'https://properties.hi5properties.com/'
   },
-  {
-    id: 4,
-    image: meatmoot,
-    title: 'Meat moot',
-    github:'https://github.com/alisaghir1/meat-moot',
-    demo:'https://meat-moot-oo41.vercel.app/'
-  }
 ]
 
 const Portofolio = () => {

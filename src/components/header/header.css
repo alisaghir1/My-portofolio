@@ -83,7 +83,7 @@ header{
 @media screen and (max-width: 600px) {
     .container{
         header{
-            height: 100vh;
+            height: 90vh;
         }
     }
 
