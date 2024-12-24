@@ -3,7 +3,7 @@ import './portfolio.css'
 import codeTalk from '../../assets/codeTalk.jpeg'
 import raynLook from '../../assets/raynLook.jpeg'
 import hi5 from '../../assets/hi5.jpeg'
-import meatmoot from '../../assets/meatmoot.jpeg'
+import meatmoot from '../../assets/meetMoot.jpeg'
 import hi5Events from '../../assets/Events.jpeg'
 
 
