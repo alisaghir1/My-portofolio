@@ -7,11 +7,11 @@ import { AiFillInstagram } from "react-icons/ai";
 const Footer = () => {
   return (
     <footer>
-      <a href="#" className='footer__logo'>Ali Saghir</a>
+      <a href="/" className='footer__logo'>Ali Saghir</a>
 
       <ul className='permalinks'>
         <li>
-          <a href="#">
+          <a href="/">
             Home
           </a>
         </li>
